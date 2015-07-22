@@ -308,8 +308,7 @@
 
 	#header-wrapper
 	{
-		overflow: hidden;
-		background: #2056ac;
+	background: #2056ac;
 	}
 
 	#header
@@ -323,7 +322,10 @@
 
 	#logo
 	{
-		padding: 8em 0em 4em 0em;
+	padding-top: 2em;
+	padding-right: 0em;
+	padding-left: 0em;
+	padding-bottom: 2em;
 	}
 	
 	#logo h1
