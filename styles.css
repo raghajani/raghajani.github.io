@@ -1,0 +1,63 @@
+@charset "utf-8";
+h1  {
+	font-size: 2em;
+	font-family: league-gothic;
+	font-style: normal;
+	font-weight: 400;
+}
+body {
+	font-family: source-sans-pro;
+	font-style: normal;
+	font-weight: 400;
+}
+h4 {
+	font-family: bitter;
+	font-style: normal;
+	font-weight: 400;
+	text-align: left;
+}
+
+
+.MainNav {
+	float: left;
+}
+.MainSection {
+	float: right;
+	margin-right: 8em;
+	margin-top: -2m;
+	font-family: source-sans-pro;
+	font-style: normal;
+	font-weight: 200;
+}
+a {
+	text-decoration: none;
+}
+.Name {
+	font-family: droid-serif;
+	font-size: 40px;
+	font-variant: normal;
+	font-weight: 400;
+	font-style: normal;
+	margin-top: 2%;
+	margin-right: 2%;
+	margin-left: 2%;
+	margin-bottom: 0%;
+}
+h2 {
+	margin-bottom: 0px;
+
+
+
+
+}
+
+.affiliation {
+	font-family: bitter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
