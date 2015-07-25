@@ -11,7 +11,10 @@ html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than 
 body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#919191; background-color:#232323;}
 
 .clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
-.clear{display:block; clear:both;}
+.clear{
+	display: block;
+	clear: both;
+}
 html[xmlns] .clear{display:block;}
 * html .clear{height:1%;}
 
@@ -135,4 +138,46 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 }
 .Tozih {
 	text-align: justify;
+	color: #747474;
+}
+.paperlist {
+	margin-left: 3em;
+}
+h4 {
+	margin-left: 2em;
+	color: #3E3E3E;
+}
+h2 {
+
+}
+.outherpages {
+}
+.otherpages {
+	margin-top: 2em;
+	margin-bottom: 1em;
+	font-size: large;
+	color: #CECECE;
+	border-top: medium none #000000;
+	background-color: #2E2E2E;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+ul {
+	font-size: medium;
+}
+.interests {
+	color: #5B5B5B;
+	font-size: large;
+}
+.aboutme {
+	color: #747474;
+}
+.paper {
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+	padding-top: 4px;
+	color: #5B5B5B;
 }
