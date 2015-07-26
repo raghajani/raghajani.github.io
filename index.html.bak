@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title>Reza Aghajani - Home</title>
+<meta charset="iso-8859-1">
+<link rel="stylesheet" href="styles/layout.css" type="text/css">
+<!--[if lt IE 9]><script src="scripts/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+<div class="wrapper row1">
+  <header id="header" class="clear">
+    <div id="hgroup">
+      <h1><a href="#">Reza Aghajani</a></h1>
+      <h2 class="Affil">Division of Applied Mathematics<br>Brown Uiversity</h2>
+    </div>
+    <nav>
+      <ul>
+        <li>Home</li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="#">Presntations </a></li>
+        <li><a href="#">CV </a></li>
+        <li class="last"><a href="#">contact</a></li>
+      </ul>
+    </nav>
+  </header>
+</div>
+<!-- content -->
+<div class="wrapper row2">
+  <div id="container" class="clear">
+    <!-- Slider -->
+<section id="slider" class="clear">
+      <figure><img src="images/demo/630x300.gif" alt="">
+        <figcaption>
+          <h2 class="aboutme">About me</h2>
+          <p class="Tozih">I am a Sixth year PhD student in the <a href="http://www.brown.edu/academics/applied-mathematics">Division of Applied Mathematics</a> at Brown University. My interests include Probability Theory, Stochastic Analysis with applications in Stochastic Networks. I am working with Professor <a href="https://vivo.brown.edu/display/kramanan">Kavita Ramanan</a>. Please contact me at reza@brown.edu.</p>
+        </figcaption>
+      </figure>
+    </section>
+    <!-- main content -->
+	</div>
+</div>
+<!-- Footer -->
+<div class="wrapper row3"> </div>
+</body>
+</html>
