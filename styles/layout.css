@@ -109,15 +109,16 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 	float: right;
 	width: 400px;
 	height: 300px;
+	margin-right: 2em;
 }
 #container #slider figure figcaption{
 	display: block;
 	float: left;
-	width: 280px;
+	width: 400px;
 	height: 260px;
 	padding: 20px;
 	overflow: hidden;
-	line-height: 1.6em;
+	line-height: 2;
 	margin-left: 3em;
 }
 #container #slider figure figcaption a{
@@ -154,6 +155,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 .Tozih {
 	text-align: justify;
 	color: #747474;
+	font-size: large;
 }
 .paperlist {
 	margin-left: 3em;
