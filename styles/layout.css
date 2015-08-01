@@ -119,7 +119,6 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 	padding: 20px;
 	overflow: hidden;
 	line-height: 2;
-	margin-left: 3em;
 }
 #container #slider figure figcaption a{
 	color: #FF9900;
