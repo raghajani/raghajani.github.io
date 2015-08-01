@@ -110,6 +110,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 	width: 400px;
 	height: 300px;
 	margin-right: 2em;
+	margin-top: 2em;
 }
 #container #slider figure figcaption{
 	display: block;
