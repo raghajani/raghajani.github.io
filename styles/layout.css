@@ -184,6 +184,8 @@ ul {
 .contacttext {
 	color: #474747;
 	font-size: large;
-	text-indent: 50px;
-	margin-bottom: 2em;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
 }
